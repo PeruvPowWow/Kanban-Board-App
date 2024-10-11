@@ -108,5 +108,6 @@ This Kanban board project provides a task management tool with enhanced security
 
 ## Links
 
-Repository URL: GitHub Repository
-Deployed Application: Live URL
+Repository URL: https://github.com/PeruvPowWow/Kanban-Board-App
+
+Deployed Application: https://kanban-board-app-xlcy.onrender.com/
